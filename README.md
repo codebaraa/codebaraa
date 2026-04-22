@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Barbara!
 
-<!--
-**codebaraa/codebaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Frontend Developer with a background in Business and Service industries. I love building clean, responsive interfaces and using AI as a sparring partner to speed up prototyping and debugging.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TECH STACK
+  🌐 Coding: HTML5, CSS3, SCSS, JavaScript (ES6+), React.js
+  ✨ Design: UI/UX, Adobe Photoshop, Canva
+  🚀 Workflow: Git, npm, AI-driven development (ChatGPT, Gemini, Perplexity)
+
+  
+CURRENTLY BUILDING
+  🥐 A responsive web application for the food & bakery industry, focusing on modular SCSS and pixel-perfect layouts.
+
+
+THE VIBE
+  ✨ My experience in high-pressure retail and gastronomy makes me a master at staying calm and solving problems fast. I bridge the gap between 
+     business logic and clean code.
+
+
+LANGUAGES
+  🇭🇺 Hungarian,
+  🇩🇪 German,
+  🇬🇧 English,
+  🇵🇱 Polish
