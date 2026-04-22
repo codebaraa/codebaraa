@@ -1,30 +1,12 @@
-👋 Hi, I'm Barbara!
------------------------------------------------------------------------------
-
-💻 I’m a Frontend Developer with a background in Business and Service industries. I love building clean, responsive interfaces and using AI as a sparring partner to speed up prototyping and debugging.
-
------------------------------------------------------------------------------
-
-TECH STACK
-  🌐 Coding: HTML5, CSS3, SCSS, JavaScript (ES6+), React.js
-  ✨ Design: UI/UX, Adobe Photoshop, Canva
-  🚀 Workflow: Git, npm, AI-driven development (ChatGPT, Gemini, Perplexity)
-
------------------------------------------------------------------------------
-
-CURRENTLY BUILDING
-  🥐 A responsive web application for the food & bakery industry, focusing on modular SCSS and pixel-perfect layouts.
-
------------------------------------------------------------------------------
-
-THE VIBE
-  ✨ My experience in high-pressure retail and gastronomy makes me a master at staying calm and solving problems fast. I bridge the gap between 
-     business logic and clean code.
-
------------------------------------------------------------------------------
-
-LANGUAGES
-  🇭🇺 Hungarian,
-  🇩🇪 German,
-  🇬🇧 English,
-  🇵🇱 Polish
+Hey there! 👋
+I'm Barbara, a Frontend Developer based in Austria. I combine my Business background with a passion for building clean, responsive interfaces. If there is a layout to optimize or a bug to fix, I am all in.
+                
+My interests & skills: 💻 Web Dev (React, SCSS)   🤖 AI Workflow   ✨ UI/UX Design
+                                                      
+🧘‍♀️ My time in high-pressure retail and gastronomy turned me into a calm problem-solver with a "get it done" mindset.
+               
+🌐 TECH STACK: HTML5, CSS3, SCSS, JavaScript, React.js
+                     
+🚀 WORKFLOW: AI-driven development, Git, npm
+         
+🌍 LANGUAGES: 🇭🇺 Hungarian | 🇩🇪 German | 🇬🇧 English | 🇵🇱 Polish
