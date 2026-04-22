@@ -1,6 +1,6 @@
 Hey there! 👋
     
-I'm Barbara, a Frontend Developer based in Austria. I combine my Business background with a passion for building clean, responsive interfaces. If there is a layout to optimize or a bug to fix, I am all in.
+I'm Barbara, a Frontend Developer based in Germany. I combine my Business background with a passion for building clean, responsive interfaces. If there is a layout to optimize or a bug to fix, I am all in.
                  
 My interests & skills: 💻 Web Dev (React, SCSS)   🤖 AI Workflow   ✨ UI/UX Design
                                                        
